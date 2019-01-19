@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6311DFBE-2C58-4AD7-9525-DC95857E56F3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projekt</RootNamespace>
+    <AssemblyName>Projekt</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DadajSamochod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DadajSamochod.Designer.cs">
+      <DependentUpon>DadajSamochod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DaneKlienta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DaneKlienta.Designer.cs">
+      <DependentUpon>DaneKlienta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajKlienta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajKlienta.Designer.cs">
+      <DependentUpon>DodajKlienta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajWynajem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajWynajem.Designer.cs">
+      <DependentUpon>DodajWynajem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dostepnosc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dostepnosc.Designer.cs">
+      <DependentUpon>Dostepnosc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="GlownyInterfejs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlownyInterfejs.Designer.cs">
+      <DependentUpon>GlownyInterfejs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IRezerwowalny.cs" />
+    <Compile Include="Klient.cs" />
+    <Compile Include="Osoba.cs" />
+    <Compile Include="Pracownik.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PrzedzialCzasu.cs" />
+    <Compile Include="Rezerwacja.cs" />
+    <Compile Include="Samochod.cs" />
+    <Compile Include="Wynajem.cs" />
+    <Compile Include="Wypozyczalnia.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DadajSamochod.resx">
+      <DependentUpon>DadajSamochod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DaneKlienta.resx">
+      <DependentUpon>DaneKlienta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajKlienta.resx">
+      <DependentUpon>DodajKlienta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajWynajem.resx">
+      <DependentUpon>DodajWynajem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dostepnosc.resx">
+      <DependentUpon>Dostepnosc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlownyInterfejs.resx">
+      <DependentUpon>GlownyInterfejs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="samochod.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSamochod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Samochod>
+    <dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-12T21:20:49.3368295+01:00</Poczatek>
+        <Koniec>2019-01-13T21:20:49</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-15T21:20:49</Poczatek>
+        <Koniec>2019-01-17T21:21:07</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-18T21:21:07</Poczatek>
+        <Koniec>2019-01-20T21:20:49</Koniec>
+      </Dostepnosc>
+    </dostepnosc>
+    <Marka>1</Marka>
+    <Model>1</Model>
+    <NumerRejestracyjny>1</NumerRejestracyjny>
+    <Cena>0</Cena>
+  </Samochod>
+</ArrayOfSamochod>

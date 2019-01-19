@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSamochod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Samochod>
+    <dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-18T19:20:41.4246859+01:00</Poczatek>
+        <Koniec>2019-01-31T19:20:41</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-02-06T19:20:41</Poczatek>
+        <Koniec>2019-02-09T19:20:41</Koniec>
+      </Dostepnosc>
+    </dostepnosc>
+    <Marka>Toyoya</Marka>
+    <Model>Yaris</Model>
+    <NumerRejestracyjny>TH 7632</NumerRejestracyjny>
+    <Cena>0</Cena>
+  </Samochod>
+  <Samochod>
+    <dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-18T19:23:29.2670584+01:00</Poczatek>
+        <Koniec>2019-01-20T19:23:29</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-29T19:23:29</Poczatek>
+        <Koniec>2019-01-30T19:23:29</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-02-15T19:23:29</Poczatek>
+        <Koniec>2019-02-20T19:23:29</Koniec>
+      </Dostepnosc>
+    </dostepnosc>
+    <Marka>Ferrari</Marka>
+    <Model>California</Model>
+    <NumerRejestracyjny>WE 4253</NumerRejestracyjny>
+    <Cena>0</Cena>
+  </Samochod>
+  <Samochod>
+    <dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-26T21:20:24</Poczatek>
+        <Koniec>2019-01-31T19:24:24</Koniec>
+      </Dostepnosc>
+    </dostepnosc>
+    <Marka>Audi</Marka>
+    <Model>RS6</Model>
+    <NumerRejestracyjny>KR 5243</NumerRejestracyjny>
+    <Cena>0</Cena>
+  </Samochod>
+  <Samochod>
+    <dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-18T19:24:57.4229472+01:00</Poczatek>
+        <Koniec>2019-01-24T19:24:57</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-01-30T19:24:57</Poczatek>
+        <Koniec>2019-01-31T19:24:57</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-02-06T19:24:57</Poczatek>
+        <Koniec>2019-02-09T19:26:33</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-02-12T19:26:33</Poczatek>
+        <Koniec>2019-02-14T19:34:28</Koniec>
+      </Dostepnosc>
+      <Dostepnosc>
+        <Poczatek>2019-02-16T19:34:28</Poczatek>
+        <Koniec>2019-02-27T19:24:57</Koniec>
+      </Dostepnosc>
+    </dostepnosc>
+    <Marka>Renault</Marka>
+    <Model>Kangaroo</Model>
+    <NumerRejestracyjny>EBE 3242</NumerRejestracyjny>
+    <Cena>0</Cena>
+  </Samochod>
+</ArrayOfSamochod>

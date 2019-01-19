@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKlient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Klient>
+    <Imie>k1</Imie>
+    <Nazwisko>k1</Nazwisko>
+    <Pesel>k1</Pesel>
+    <NumerDowodu>k1</NumerDowodu>
+    <DataUrodzenia>2019-01-12T21:21:19.791905+01:00</DataUrodzenia>
+    <MiastoZamieszkania>k1</MiastoZamieszkania>
+    <UlicaZamieszkania>k1</UlicaZamieszkania>
+    <LokalZamieszkania>k1</LokalZamieszkania>
+    <KodPocztowy>k1</KodPocztowy>
+  </Klient>
+  <Klient>
+    <Imie>Jan</Imie>
+    <Nazwisko>Nowak</Nazwisko>
+    <Pesel>93062367534</Pesel>
+    <NumerDowodu>XEER456</NumerDowodu>
+    <DataUrodzenia>1993-06-23T19:27:20</DataUrodzenia>
+    <MiastoZamieszkania>Warszawa</MiastoZamieszkania>
+    <UlicaZamieszkania>Zamojska</UlicaZamieszkania>
+    <LokalZamieszkania>2</LokalZamieszkania>
+    <KodPocztowy>23-342</KodPocztowy>
+  </Klient>
+</ArrayOfKlient>

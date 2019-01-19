@@ -1,0 +1,8 @@
+C:\Users\LukMcCall\Desktop\Zajecia\c#\Projekt\Projekt\bin\Release\Projekt.exe.config
+C:\Users\LukMcCall\Desktop\Zajecia\c#\Projekt\Projekt\bin\Release\Projekt.exe
+C:\Users\LukMcCall\Desktop\Zajecia\c#\Projekt\Projekt\bin\Release\Projekt.pdb
+C:\Users\LukMcCall\Desktop\Zajecia\c#\Projekt\Projekt\obj\Release\Projekt.DadajSamochod.resources
+C:\Users\LukMcCall\Desktop\Zajecia\c#\Projekt\Projekt\obj\Release\Projekt.GlownyInterfejs.resources
+C:\Users\LukMcCall\Desktop\Zajecia\c#\Projekt\Projekt\obj\Release\Projekt.csproj.GenerateResource.Cache
+C:\Users\LukMcCall\Desktop\Zajecia\c#\Projekt\Projekt\obj\Release\Projekt.exe
+C:\Users\LukMcCall\Desktop\Zajecia\c#\Projekt\Projekt\obj\Release\Projekt.pdb
