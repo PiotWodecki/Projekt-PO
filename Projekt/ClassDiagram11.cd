@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt.DadajSamochod" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAQCAAAFYAAACAAAADAAAIQAAAAEAAAAAAAAA=</HashCode>
+      <FileName>DadajSamochod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.DaneKlienta" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACIAEACBCAAABAGRAKACAACIAA8AAAIAPABCAABBAA=</HashCode>
+      <FileName>DaneKlienta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.DodajKlienta" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAABCAAABAGAAKACAACIAAcAAAIAGAACCAAAAA=</HashCode>
+      <FileName>DodajKlienta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.DodajWynajem" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAACAAADEAAAGgABACAAA4SAAABHAAAAAAARA=</HashCode>
+      <FileName>DodajWynajem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Dostepnosc" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAIBAAgACAAAACAAAYAABIAWCAAAAAADA=</HashCode>
+      <FileName>Dostepnosc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Global" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.GlownyInterfejs" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAgAUAAKCAABAABACAoAACA9A4AACAAHAMAABAAAA=</HashCode>
+      <FileName>GlownyInterfejs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Klient" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAEBAgAAAhAAAAIAAAEAAAAAAA=</HashCode>
+      <FileName>Klient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Osoba" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAQACBAEIAAQACEAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Osoba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Pracownik" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAQAAAAAAAAAAAAAAAAAAAAAAAQCAAAAAgIACAAGA=</HashCode>
+      <FileName>Pracownik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Program" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.PrzedzialCzasu" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAABAQAAAQAAAAAAAA=</HashCode>
+      <FileName>PrzedzialCzasu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Rezerwacja" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rezerwacja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Samochod" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAABAIAAAGCAAAAwAAAAAAAQAAgAkAAIAIAAA=</HashCode>
+      <FileName>Samochod.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Projekt.Wynajem" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAAAAAAAACAABACgQAgAAAAIEAAAAEABQAAAA=</HashCode>
+      <FileName>Wynajem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Wypozyczalnia" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAAAAAgAIAAIA=</HashCode>
+      <FileName>Wypozyczalnia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Properties.Resources" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABGAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Projekt.IRezerwowalny" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRezerwowalny.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Projekt.Zajecie" Collapsed="true">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Pracownik.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Projekt.Kolor" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAAQAAAACAAAA=</HashCode>
+      <FileName>Samochod.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Projekt.Typ" Collapsed="true">
+    <Position X="4.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIAAAAAAAAAECAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Samochod.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
